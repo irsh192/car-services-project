@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "666877b24d1b3c24943b5d65"
+  },
+  "name": "Full-Body Wrap",
+  "cat_type": "services",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666879984d1b3c24943b5d7d"
+  },
+  "name": "Dashboard Wrap",
+  "cat_type": "services",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668811e4d1b3c24943b5da5"
+  },
+  "name": "Car Rexine",
+  "cat_type": "services",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668812f4d1b3c24943b5db1"
+  },
+  "name": "PPF Coating",
+  "cat_type": "services",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666881554d1b3c24943b5dd3"
+  },
+  "name": "LED Lights",
+  "cat_type": "productis",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668815f4d1b3c24943b5ddf"
+  },
+  "name": "Key Covers",
+  "cat_type": "productis",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666881674d1b3c24943b5deb"
+  },
+  "name": "Seat Covers",
+  "cat_type": "productis",
+  "description": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666881764d1b3c24943b5df7"
+  },
+  "name": "Steering Covers",
+  "cat_type": "productis",
+  "description": "",
+  "__v": 0
+}]

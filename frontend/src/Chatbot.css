@@ -1,0 +1,73 @@
+/* frontend/src/Chatbot.css */
+.chatbot-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 100px;  /* Increase the size of the icon container */
+    height: 100px; /* Increase the size of the icon container */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%; /* Makes the icon perfectly circular */
+    
+}
+
+.chatbot-icon img {
+    width: 80%;  /* Adjust the image size */
+    height: auto;
+}
+
+.chatbot-container {
+    width: 300px;
+    height: 400px;
+    border: 2px solid #757373;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    position: fixed;
+    bottom: 80px; /* Adjusted to be above the icon */
+    right: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    z-index: 1000;
+    font-weight: 400; /* Set to normal bold */
+}
+
+.messages {
+    flex: 1;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    
+}
+
+.user-message {
+    text-align: right;
+    color: white; /* Set text color to white */
+    background-color: rgb(45, 45, 231); /* Set background color to blue */
+    width: 100%; /* Set full width */
+    white-space: pre-wrap; /* Preserves new lines */
+    padding: 10px; /* Add some padding for better readability */
+    border-radius: 5px; /* Add rounded corners for better aesthetics */
+}
+
+.bot-message {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    white-space: pre-wrap; /* Preserves new lines */
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 6px;
+    background-color: rgb(170, 170, 185);
+    font-weight: 500; /* Set to normal bold */
+}
+
+button {
+    width: 50px;
+    padding: 10px;
+}

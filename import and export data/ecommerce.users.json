@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "661e57095f96037271856ea4"
+  },
+  "email": "admin@gmail.com",
+  "password": "admin",
+  "first_name": "ilyas",
+  "last_name": "khan",
+  "street_address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "is_superuser": true,
+  "created_at": {
+    "$date": "2024-04-16T10:46:33.247Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-16T10:46:33.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2f1688aca0d781193879"
+  },
+  "email": "shahjee6446@gmail.com",
+  "password": "shahjee123",
+  "first_name": "Shah",
+  "last_name": "Jee",
+  "street_address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "is_superuser": true,
+  "created_at": {
+    "$date": "2024-06-04T15:13:26.115Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-04T15:13:26.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662ab13b2cfae7041bc2cf8"
+  },
+  "email": "ilyaskhan@gmail.com",
+  "password": "ilyas123",
+  "first_name": "ilyas",
+  "last_name": "khan",
+  "street_address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2024-06-07T06:39:15.296Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T06:39:15.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d3dbb59574e1c55c7d120"
+  },
+  "email": "ilyaaso@gmail.com",
+  "password": "12345",
+  "first_name": "ilyas",
+  "last_name": "khan",
+  "street_address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2024-06-27T10:23:55.368Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-27T10:23:55.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e12494918e1bd6fa35cdd"
+  },
+  "email": "usman@gmail.com",
+  "password": "usman123",
+  "first_name": "usman",
+  "last_name": "khan",
+  "street_address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "is_superuser": false,
+  "created_at": {
+    "$date": "2024-07-22T08:03:21.505Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-22T08:03:21.505Z"
+  },
+  "__v": 0
+}]
